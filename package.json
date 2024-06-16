@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GEMakers/gea-plugin-water-heater.git"
+        "url": "https://github.com/sfdcale/gea-plugin-water-heater.git"
     },
     "version": "0.1.0",
     "dependencies": {
